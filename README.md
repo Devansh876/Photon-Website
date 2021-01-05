@@ -1,6 +1,6 @@
 # Photon-Website
 
-https://bit.ly/devphoton
+https://photon-site.netlify.app/
 
 # Description
 
